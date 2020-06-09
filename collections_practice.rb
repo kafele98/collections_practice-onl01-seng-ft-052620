@@ -48,5 +48,3 @@ def add_s (array)
     item << "s"
   end 
 end 
-
-end  
